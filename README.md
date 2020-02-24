@@ -3,17 +3,16 @@
 ## Table of Contents
 + [About](#about)
 + [Getting Started](#getting_started)
-+ [Usage](#usage)
-+ [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 The need for backup is paramount in the event of a major technical problem. This script allows you to make a daily, weekly backup of a folder.
 
 ## Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See **installing** for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-Just to be able to run bash files
+Just to be able to run bash files and to be on linux os
+If you don't have cron installed run `apt-get install cron`
 
 ### Installing
 Clone the projet in a folder.
