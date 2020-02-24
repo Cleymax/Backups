@@ -1,4 +1,4 @@
-# McBackups
+# Backups
 
 ## Table of Contents
 + [About](#about)
